@@ -16,3 +16,5 @@ C:\Work\Training\SupportBank\SupportBank\obj\Debug\net9.0\ref\SupportBank.dll
 C:\Work\Training\SupportBank\SupportBank\obj\Debug\net9.0\SupportBank.csproj.AssemblyReference.cache
 C:\Work\Training\SupportBank\SupportBank\bin\Debug\net9.0\NLog.dll
 C:\Work\Training\SupportBank\SupportBank\obj\Debug\net9.0\SupportB.540BFCCB.Up2Date
+C:\Work\Training\SupportBank\SupportBank\bin\Debug\net9.0\Json.Net.dll
+C:\Work\Training\SupportBank\SupportBank\bin\Debug\net9.0\Newtonsoft.Json.dll
