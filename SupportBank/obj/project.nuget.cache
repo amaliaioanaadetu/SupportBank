@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "H7cfvigjLt0=",
+  "dgSpecHash": "MKtE89IrOAM=",
   "success": true,
   "projectFilePath": "C:\\Work\\Training\\SupportBank\\SupportBank\\SupportBank.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\AmaAde\\.nuget\\packages\\nlog\\6.0.5\\nlog.6.0.5.nupkg.sha512"
+  ],
   "logs": []
 }
